@@ -1,0 +1,17 @@
+{
+  "authors": [
+    "Piper Merriam <pipermerriam@gmail.com>"
+  ],
+  "description": "Library for multiplying unsigned integers by 13",
+  "keywords": [
+    "owned"
+  ],
+  "license": "MIT",
+  "manifest_version": 1,
+  "package_name": "multiply-13",
+  "sources": [
+    "./contracts/*.sol",
+    "./contracts/**/*.sol"
+  ],
+  "version": "1.0.0"
+}

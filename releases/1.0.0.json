@@ -1,0 +1,27 @@
+{
+  "chain": [
+    "blockchain://0x41941023680923e0fe4d74a34bdac8141f2540e3ae90623718e47d66d1ca4a2d/block/c827316d5911675236904f2de043dec2b4a8400cb27b74afe077ae1dd9cca51a"
+  ],
+  "contracts": {
+    "Multiply13Lib": {
+      "address": "0xae05923e1f07324a593bc10cf99ee9006cc44d1c",
+      "bytecode": "0x6060604052603c8060106000396000f36504044633f3de50606060405260e060020a6000350463cdbf9c4281146024575b6007565b600d6004350260408051918252519081900360200190f3",
+      "compiler": {
+        "settings": {
+          "optimize": true
+        },
+        "type": "solc",
+        "version": "Version: 0.4.4+commit.4633f3de.Darwin.appleclang\n"
+      },
+      "contract_name": "Multiply13Lib",
+      "runtime_bytecode": "0x6504044633f3de50606060405260e060020a6000350463cdbf9c4281146024575b6007565b600d6004350260408051918252519081900360200190f3"
+    }
+  },
+  "license": "MIT",
+  "lock_file_version": "1",
+  "package_manifest": "ipfs://QmVnCKneci39GFhq4UyrEkYFUfQs66m2ue59FzUUyoAKd6",
+  "sources": {
+    "./contracts/Multiply13Lib.sol": "ipfs://QmRzLbprnKNEuwreUeznaU2RQk2hRxDogcUePhumzWG1kK"
+  },
+  "version": "1.0.0"
+}
